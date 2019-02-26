@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "MyWeatherApp",
+  "short_name": "MyWeatherApp",
+  "version": "io.cordova.hellocordova",
+  "description": "A small weather application to test cordova.",
+  "author": "Ing. Sandro Kallinger",
+  "icons": [],
+  "start_url": "index.html"
+}
